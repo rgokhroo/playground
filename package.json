@@ -1,0 +1,22 @@
+{
+  "name": "Invoice",
+  "version": "1.0.0",
+  "description": "Ranu's repo!",
+  "main": "invoiceService.js",
+  "scripts": {
+    "test": "run_invoice"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgokhroo/playground.git"
+  },
+  "author": "Ranu Gokhroo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgokhroo/playground/issues"
+  },
+  "homepage": "https://github.com/rgokhroo/playground#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
